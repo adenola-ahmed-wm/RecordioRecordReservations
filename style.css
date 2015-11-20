@@ -1,0 +1,43 @@
+body {
+    background-image: url("http://www.msrstudiosny.com/wp-content/uploads/2012/10/StudioB_960x540.jpg");
+    background-size: 100%;
+}
+
+#header {
+    background-color: whitesmoke;
+    opacity: 0.55;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+#nav{
+    background-color: whitesmoke;
+    opacity: 0.55;
+    text-align: center;
+    width: 18%;
+    margin-left: 180px;
+    position: relative; left: -30%
+left: 15%;
+}
+
+#content{
+    background-color: whitesmoke;
+    opacity: 0.55;
+    text-align: center;
+    width: 47%;
+    position: relative;
+    right: -38%;
+    bottom: 34px;
+}
+
+#footer{
+    background-color: whitesmoke;
+    opacity: 0.55;
+    text-align: center;
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
